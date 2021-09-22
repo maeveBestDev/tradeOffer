@@ -23,10 +23,13 @@ a
   font-family: Simplified;
 }
 
-img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+img 
+{
+  display: block;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto 
+}
 
 .imageee {
 background-size: cover;
