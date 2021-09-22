@@ -23,12 +23,11 @@ a
   font-family: Simplified;
 }
 
-img 
-{
+img {
+  width: 200px;
   display: block;
-  text-align: left;
   margin-left: auto;
-  margin-right: auto 
+  margin-right: auto;
 }
 
 .imageee {
