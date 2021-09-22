@@ -17,16 +17,29 @@
 </form>
       
       <h1>I can sell my skills, are you interested ?</h1>
-      <p><strong>Guardsman's duty</strong> is an FPS (First Person Shooter) based on the universe of <a href="https://en.wikipedia.org/wiki/Warhammer_40,000">Warhammer 40, 000</a>. By making this game my goal is to show all my "skills" in 3D game development.</p>
+      <p>As you must have seen on the rest of this site, I have a lot of skills in the following languages :</p>
+      <p></p>
+      
+      <p>-C++</p>
+      <p>-C#</p>
+      <p>-JavaScript</p>
+      <p>-HTML/CSS</p>
+      <p></p>
+      
+      <p>I can therefore sell my services whether for full games, bots (mainly discord), websites or just various and varied pieces of code.</p>
+      <p></p>
+      <p>do not hesitate to contact me at the email address: maevedev@hotmail.com or on discord スレヤ一#5661.</p>
+      <p></p>
+      <p>For more informations go to <a href="https://maevebestdev.github.io/Contact_Us/">Contact me</a>.</p>
 
       <p>  </p>
 <div class="conteneur-flexbox">
   <div class="box">
     <p class="click"></p>
         <!--image normal-->     
-      <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" data-lightbox="image-1">
+      <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" data-lightbox="image-1">
         <!--image zoomer-->
-      <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/885045909946241054/Screenshot_1.png?width=694&height=390" style="width: 450px;"></a>
+      <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" style="width: 450px;"></a>
   </div>
 
     <p></p>
