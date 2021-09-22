@@ -39,7 +39,7 @@
         <!--image normal-->     
       <a class="displayed" href="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" data-lightbox="image-1">
         <!--image zoomer-->
-      <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" style="width: 450px;"></a>
+      <img class="displayed" src="https://media.discordapp.net/attachments/884718653348667412/890295869612646400/tradeoffer.jpg?width=326&height=426" style="width: 200px;"></a>
   </div>
 
     <p></p>
