@@ -16,7 +16,7 @@
   </div>
 </form>
       
-      <h1>I can sell my skills, are you interssted ?</h1>
+      <h1>I can sell my skills, are you interested ?</h1>
       <p><strong>Guardsman's duty</strong> is an FPS (First Person Shooter) based on the universe of <a href="https://en.wikipedia.org/wiki/Warhammer_40,000">Warhammer 40, 000</a>. By making this game my goal is to show all my "skills" in 3D game development.</p>
 
       <p>  </p>
